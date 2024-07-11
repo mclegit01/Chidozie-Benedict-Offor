@@ -1,0 +1,1 @@
+This project is my own task at HNG Tech product management internship. This unique language learning AI game leveraging Three js to create an in-depth and interactive environment. Specially designed for students, professionals, language enthusiasts and travellers, this innovative tool combines advanced AI with gamified elements to enhance language learning and engagement.
